@@ -2,8 +2,9 @@ Trivia Game
 
 Welcome to Trivia Game, a simple yet engaging quiz game built with JavaScript. Test your knowledge across various categories, track your score, and enjoy a fun learning experience.
 
+![trivia](https://github.com/Iulia2191/Trivia-Game/assets/125976840/7f5164e4-3f84-4822-aa91-966515ee062d)
 
-![2023-12-25_10h46_02](https://github.com/Iulia2191/Trivia-Game/assets/125976840/c2633f47-8991-4b95-9d0f-0cd763e2ce9d)
+
 
 Features
 🌐 Web-Based: Accessible online, play the trivia game directly from your browser.
