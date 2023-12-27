@@ -9,11 +9,6 @@ Welcome to Trivia Game, a simple yet engaging quiz game built with JavaScript. T
 
 Features
 
-🌐 Web-Based: Accessible online, play the trivia game directly from your browser.
-
-🧠 Diverse Questions: Challenge yourself with a wide range of questions from different categories.
-
-📊 Real-Time Score: Keep track of your score as you progress through the quiz.
 
 
 Technologies Used
