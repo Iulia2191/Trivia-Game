@@ -7,7 +7,7 @@ Welcome to Trivia Game, a simple yet engaging quiz game built with JavaScript. T
 
 
 
-Features
+
 
 
 
